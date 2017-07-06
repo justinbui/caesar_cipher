@@ -4,4 +4,4 @@ Python script that can encode a sentence with the caesar cipher as well as brute
 # Usage
 python caesar_cipher
 
-![Alt text](/encode.jpg?raw=true "Optional Title")
+![Alt text](/encode.png?raw=true "Optional Title")
